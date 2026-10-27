@@ -13,9 +13,9 @@ You need [uv](https://docs.astral.sh/uv/), a fast Python tool that also installs
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Windows (PowerShell)
+
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
-
 Clone the repository and start Jupyter:
 
 ```bash
