@@ -1,0 +1,5 @@
+print("*" * 10)
+print("*        *")
+print("*  Hi!   *")
+print("*        *")
+print("*" * 10)
